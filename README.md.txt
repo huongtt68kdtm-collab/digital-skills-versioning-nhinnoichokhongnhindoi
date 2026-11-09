@@ -1,0 +1,2 @@
+Mục tiêu dự án: Nghiên cứu về ảnh hưởng của AI đối với việc học của sinh viên
+Nguồn dữ liệu: https://www.quanlynhanuoc.vn/2025/05/27/sinh-vien-viet-nam-voi-viec-su-dung-tri-tue-nhan-tao-thuc-trang-nhan-thuc-va-dinh-huong/
