@@ -1,0 +1,7 @@
+Commit: Là thao tác lưu lại các thay đổi của tệp tin tại một thời điểm nhất định.
+
+Branch: Là nhánh làm việc riêng biệt được tách ra từ nhánh chính (như main, revise-report), cho phép phát triển hoặc thử nghiệm tính năng mới mà không làm ảnh hưởng đến mã nguồn gốc.
+
+Push: Là thao tác tải toàn bộ các commit từ kho lưu trữ máy local lên kho lưu trữ từ xa trên đám mây (GitHub).
+
+Pull: Là thao tác tải các thay đổi mới nhất từ kho lưu trữ GitHub về và tự động hợp nhất (merge) vào kho lưu trữ trên máy local.
